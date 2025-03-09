@@ -6,6 +6,7 @@ I am now studying Front-End development at Noroff School Of Technology and Digit
 🚀 JavaScript, CSS and HTML <br>
 💻 GitHub and Netlify<br>
 🧷 Consuming REST APIs <br>
+🎨 Figma
 
 ## Preffered work tasks
 🖌️ UI and UX design<br>
