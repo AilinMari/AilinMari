@@ -5,16 +5,16 @@ I am now studying Front-End development at Noroff School Of Technology and Digit
 ## Tech stack and user experience
 🚀 JavaScript, CSS and HTML <br>
 💻 GitHub and Netlify<br>
-🧷 API's<br>
+🧷 Consuming REST APIs <br>
 
 ## Preffered work tasks
 🖌️ UI and UX design<br>
-↗️ Respponsiveness and accessability<br>
+↗️ Responsiveness and accessability<br>
 
 ## My portfolio<br>
 🌟 <a href="https://github.com/AilinMari/Portfolio-1"> My portfolio </a>
 
-## recent Projects
+## Recent study projects
 🧁 <a href="https://github.com/AilinMari/FED1-PE1-AilinMari"> Sprinkled Bliss</a> - Baking blog <br>
 🔬 <a href="https://github.com/AilinMari/tcsm"> Trondheim Community Science Museum</a>  - Homepage for the Community Science Museum in Trondheim (TCSM) <br>
 🌧️ <a href="https://github.com/AilinMari/JS1-CA"> RainyDays</a> - Homepage and online store for the rainjcaket brand RainyDays <br>
